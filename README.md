@@ -1,16 +1,15 @@
-### Hi there 👋
+### This a little bit about me and What I am Working on!!!👋
 
-<!--
-**piyushmanglani08/piyushmanglani08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my health and working as a Full Stack Developer with Cofiato. 
+- 🌱 I’m currently learning a lot about working with data and ML algorithms.
+- 👯 I’m looking to collaborate on Machine Learning Projects
+- 🤔 I’m looking for help with getting started with open source projects. 
+- 💬 Ask me about books.
+- 📫 How to reach me: [1.1]: http://i.imgur.com/tXSoThF.png 
+- 😄 Pronouns: He/Him
+- ⚡  Something about me : I love to read. 
 -->
+[1]: https://twitter.com/PiyushManglani8
