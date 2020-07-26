@@ -8,8 +8,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with getting started with open source projects. 
 - 💬 Ask me about books.
-- 📫 How to reach me: [https://twitter.com/PiyushManglani8] [https://www.linkedin.com/in/piyush-manglani-3122a3143/] piyushmanglani08@gmail.com
+- 📫 How to reach me: [1.1]: http://i.imgur.com/tXSoThF.png [6.1]: http://i.imgur.com/0o48UoR.png
 - 😄 Pronouns: He/Him
 - ⚡  Something about me : I love to read. 
 -->
 
+
+[1]: https://twitter.com/PiyushManglani8
+[6]: http://www.github.com/piyushmanglani08
