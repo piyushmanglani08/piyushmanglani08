@@ -13,17 +13,8 @@
 - 😄 Pronouns: He/Him
 - ⚡  Something about me : I love to read. 
 
--->
 
 
-[![alt text][1.1]][1]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
