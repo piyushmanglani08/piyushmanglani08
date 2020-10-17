@@ -4,7 +4,7 @@
 [![alt text][6.1]][6]
 
 
-- 🔭 I’m currently working on my health and working as a Full Stack Developer with Cofiato. 
+- 🔭 I’m currently working on my health.
 - 🌱 I’m currently learning a lot about working with data and ML algorithms.
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with getting started with open source projects. 
