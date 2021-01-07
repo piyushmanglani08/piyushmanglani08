@@ -5,11 +5,11 @@
 
 
 - 🔭 I’m currently working on my health.
-- 🌱 I’m currently learning a lot about working with data and ML algorithms.
+- 🌱 I’m currently learning a lot about working with Web Technologies.
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with getting started with open source projects. 
 - 💬 Ask me about books.
-- 📫 How to reach me: piyushmanglani08@gmail.com
+- 📫 How to reach me: piyushmanglani08@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡  Something about me : I love to read. 
 
