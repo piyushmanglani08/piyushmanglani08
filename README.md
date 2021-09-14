@@ -2,8 +2,6 @@
 
 [![alt text][1.1]][1]
 [![alt text][6.1]][6]
-
-
 - 🔭 I’m a Graduate student at Cleveland States University 
 - 🌱 I’m currently working on Data Structures and ALgorithm.
 - 👯 I’m working on a Movie Recommendation Engine.
