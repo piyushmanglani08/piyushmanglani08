@@ -4,14 +4,14 @@
 [![alt text][6.1]][6]
 
 
-- 🔭 I’m currently working on my health.
-- 🌱 I’m currently learning a lot about working with Web Technologies.
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help with getting started with open source projects. 
-- 💬 Ask me about books.
-- 📫 How to reach me: piyushmanglani08@gmail.com 
+- 🔭 I’m a Graduate student at Cleveland States University 
+- 🌱 I’m currently working on Data Structures and ALgorithm.
+- 👯 I’m working on a Movie Recommendation Engine.
+- 🤔 I’m looking for summer internships. 
+- 💬 Ask me about books and coffee.
+- 📫 How to reach me: piyushmanglani08@gmail.com, p.manglani@vikes.csuohio.edu 
 - 😄 Pronouns: He/Him
-- ⚡  Something about me : I love to read. 
+- ⚡  Something about me : I'm passionate about technology and I can talk about it for hours. Trust me!!!
 
 
 
