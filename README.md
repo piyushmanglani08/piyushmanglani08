@@ -4,7 +4,7 @@
 [![alt text][6.1]][6]
 - 🔭 I’m a Graduate student at Cleveland States University 
 - 🌱 I’m currently working on Data Structures and ALgorithm.
-- 👯 I’m working on a Movie Recommendation Engine.
+- 👯 I’m working as a Integrations API Developer at Carbonweb. 
 - 🤔 I’m looking for summer internships. 
 - 💬 Ask me about books and coffee.
 - 📫 How to reach me: piyushmanglani08@gmail.com, p.manglani@vikes.csuohio.edu 
