@@ -1,5 +1,4 @@
 ### This a little bit about me and What I am Working on!!!👋
-
 [![alt text][1.1]][1]
 [![alt text][6.1]][6]
 - 🔭 I’m a Software Engineer with a Master's degree in Computer Science from Cleveland State University.
