@@ -7,7 +7,7 @@
 - 👯 Outside of coding, I'm passionate about sports – I love basketball, volleyball, table tennis, kayaking, and riding bikes. Always up for an adventure!
 - 🤔 I’m looking for new challenges, including summer internships and projects to expand my skills.
 - 💬 Let's talk tech, books, or anything about sports. I can go on for hours about it!
-- 📫 You can reach me at piyushmanglani08@gmail.com or p.manglani@vikes.csuohio.edu.
+- 📫 You can reach me at piyushmanglani0816@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm outgoing and believe in balance – tech during the week, and sports on the weekends!
 
