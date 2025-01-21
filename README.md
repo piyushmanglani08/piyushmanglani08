@@ -2,16 +2,14 @@
 
 [![alt text][1.1]][1]
 [![alt text][6.1]][6]
-- 🔭 I’m a Graduate student at Cleveland States University 
-- 🌱 I’m currently working on Data Structures and ALgorithm.
-- 👯 I’m working as a Integrations API Developer at Carbonweb. 
-- 🤔 I’m looking for summer internships. 
-- 💬 Ask me about books and coffee.
-- 📫 How to reach me: piyushmanglani08@gmail.com, p.manglani@vikes.csuohio.edu 
-- 😄 Pronouns: He/Him
-- ⚡  Something about me : I'm passionate about technology and I can talk about it for hours. Trust me!!!
-
-
+🔭 I’m a Software Engineer with a Master's degree in Computer Science from Cleveland State University.
+🌱 Currently working as a Programmer Analyst at the Texas Commission on Fire Protection, improving systems using C#, .NET, and LINQ.
+👯 Outside of coding, I'm passionate about sports – I love basketball, volleyball, table tennis, kayaking, and riding bikes. Always up for an adventure!
+🤔 I’m looking for new challenges, including summer internships and projects to expand my skills.
+💬 Let's talk tech, books, or anything about sports. I can go on for hours about it!
+📫 You can reach me at piyushmanglani0816@gmail.com.
+😄 Pronouns: He/Him
+⚡ Fun fact: I'm outgoing and believe in balance – tech during the week, and sports on the weekends!
 
 
 
